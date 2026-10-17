@@ -21,11 +21,11 @@ Repo for the SAINTCON Privacy Community's inaugural year.
   - GitHub Sponsor - https://github.com/sponsors/endoflife-date
   
 #### Personal Data Removal
-  - Paid Services (Convenient, but costs)
-    - Comparison Chart - https://docs.google.com/spreadsheets/d/115L6LpQg_UX638IyUfdwGhRS7dIU3lKwz6fjAcDtE-0/edit?gid=0#gid=0
+  - Paid Services (Convenient, but costs $)
+    - Comparison Chart (See also "FIG" below) - https://docs.google.com/spreadsheets/d/115L6LpQg_UX638IyUfdwGhRS7dIU3lKwz6fjAcDtE-0/edit?gid=0#gid=0
     - EasyOptOuts - https://www.easyoptouts.com
     - JoinDeleteMe/DeleteMe - Unclear if these are the same company?
-  - DIY (Hard Mode)
+  - DIY (Hard mode, but free)
     - BADBOOL - Big-Ass Data Broker Opt-Out List - https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
       - FIG - Fill in the Gaps of Paid Removal Services, BADBOOL Supplement- https://docs.google.com/spreadsheets/d/115L6LpQg_UX638IyUfdwGhRS7dIU3lKwz6fjAcDtE-0/edit?gid=0#gid=0
       - Donate - https://ko-fi.com/kofisupporter11745
@@ -33,6 +33,7 @@ Repo for the SAINTCON Privacy Community's inaugural year.
 
 ### Electronic Frontier Foundation (EFF)
   - Donate/Membership - https://supporters.eff.org
+  - Merch - https://shopeff.org
   - One-Pagers - https://www.eff.org/onepagers
   - [Opt-Out October Activities](OOO_Activity_List.md)
   - Surveillance Self-Defense (SSD) - https://ssd.eff.org
