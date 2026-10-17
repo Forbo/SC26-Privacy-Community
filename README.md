@@ -27,10 +27,11 @@ Repo for the SAINTCON Privacy Community's inaugural year.
   - Privacy Guides - https://privacyguides.org/en/tools
 - Personal Data Removal
   - Paid Services (Convenient, but costs)
-TODO:    - DeleteMe/JoinDeleteMe? - Conflation/confusion, need to dig in more.
+    - Comparison Chart - https://docs.google.com/spreadsheets/d/115L6LpQg_UX638IyUfdwGhRS7dIU3lKwz6fjAcDtE-0/edit?gid=0#gid=0
     - EasyOptOuts - https://www.easyoptouts.com
-    - Optery - https://www.optery.com
+    - JoinDeleteMe/DeleteMe - Unclear if these are the same company?
   - DIY (Hard Mode)
     - BADBOOL - Big-Ass Data Broker Opt-Out List - https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
+      - FIG - Fill in the Gaps of Paid Removal Services, BADBOOL Supplement- https://docs.google.com/spreadsheets/d/115L6LpQg_UX638IyUfdwGhRS7dIU3lKwz6fjAcDtE-0/edit?gid=0#gid=0
       - Donate - https://ko-fi.com/kofisupporter11745
     - Extreme Privacy Personal Data Removal Workbook - https://inteltechniques.com/data/workbook.pdf
