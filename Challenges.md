@@ -1,0 +1,209 @@
+# Privacy Challenges
+
+Complete a challenge, show a volunteer, earn points for EFF gear and bragging
+rights.
+
+- **1 point** per completed challenge.
+- **+1 bonus point** for every set of 4 challenges, one from each tier. Each
+  challenge counts toward only one set, so you can earn this more than once.
+- **Drawings:** TBD (day/time). Must be present to win.
+- **No purchase or donation necessary.**
+- **We record only your Handle.** No names, emails, or screenshots. A volunteer
+  looks at your screen and awards you a point.
+
+Use your personal device, not a work-managed one.
+
+<!--
+Challenge IDs are <tier>.<n>. IDs are permanent: never renumber or reuse one.
+To remove a challenge, delete it and leave the gap. To add one, use the next
+unused number in its tier.
+-->
+
+---
+
+## Tier 1: Quick Wins (at the booth, 2-5 minutes)
+
+### 1.1 Test Your Browser Fingerprint
+
+Run EFF's Cover Your Tracks and see how unique your browser looks to trackers.
+- https://coveryourtracks.eff.org
+
+**Check:** Cover Your Tracks results page.
+
+### 1.2 Block Trackers
+
+Install Privacy Badger or uBlock Origin in your browser.
+- Privacy Badger - https://privacybadger.org
+- uBlock Origin - https://ublockorigin.com
+
+**Check:** Privacy Badger or uBlock Origin icon in the browser toolbar.
+
+### 1.3 Kill Your Mobile Ad ID
+
+- iOS: Settings > Privacy & Security > Tracking > turn off "Allow Apps to
+  Request to Track"
+- Android: Settings > search "Ads" > "Delete advertising ID" (menu location
+  varies by vendor/version)
+- How-to - https://www.eff.org/deeplinks/2022/05/how-disable-ad-id-tracking-ios-and-android-and-why-you-should-do-it-now
+
+**Check:** iOS: Tracking toggle off. Android: no advertising ID / "Get new ID"
+shown.
+
+### 1.4 Revoke Location Access
+
+Find one app that has location access it doesn't need, and revoke it (or
+downgrade it to "While Using" / "Ask Every Time").
+
+**Check:** An app's location permission set to Never / While Using / Ask.
+
+### 1.5 Turn Off Ad Personalization
+
+Turn off ad personalization on one account (Google, Meta, Amazon, etc.), or
+turn off Automatic Content Recognition (ACR) on your smart TV.
+- Google My Ad Center - https://myadcenter.google.com
+
+**Check:** Personalized ads toggle off, or TV ACR setting off.
+
+### 1.6 Hide Your Number on Signal
+
+Create a Signal username, then set Settings > Privacy > Phone Number > "Who can
+find me by my number" to "Nobody".
+- https://signal.org/blog/phone-number-privacy-usernames/
+
+**Check:** Username set; "Who can find me by my number" = Nobody.
+
+### 1.7 Add 2FA to an Account
+
+Enable an authenticator app (TOTP) or a hardware security key on one account
+that doesn't have it yet. SMS doesn't count.
+- Which sites support it - https://2fa.directory
+- How-to - https://ssd.eff.org/module/how-enable-two-factor-authentication
+
+**Check:** Account security page showing authenticator app or security key
+enabled.
+
+---
+
+## Tier 2: Out in the World
+
+### 2.1 Find a License Plate Reader
+
+Find an Automated License Plate Reader (ALPR), such as a Flock camera, near the
+convention center. Photograph it and show us the photo. (We don't keep it.)
+- DeFlock map - https://deflock.org
+- Atlas of Surveillance - https://atlasofsurveillance.org
+- What ALPRs are - https://sls.eff.org/technologies/automated-license-plate-readers-alprs
+
+**Check:** Photo of an ALPR on their device.
+
+### 2.2 Verify Signal Safety Numbers With 3 People
+
+Meet 3 people in person, open each chat, tap their name > "View Safety Number",
+scan each other's QR codes, and tap "Mark as verified". Tip: swap Signal
+usernames instead of phone numbers.
+- https://support.signal.org/hc/en-us/articles/360007060632
+
+**Check:** Checkmark next to the contact's name in 3 chats.
+
+### 2.3 Map an Unmapped License Plate Reader
+
+Find an ALPR that isn't on the DeFlock map yet, and add it using the DeFlock app
+or OpenStreetMap. OpenStreetMap edits are public and tied to your account, so
+consider a pseudonymous account.
+- DeFlock - https://deflock.org
+- Reporting instructions - https://github.com/FoggedLens/deflock
+- OpenStreetMap tag - https://wiki.openstreetmap.org/wiki/Tag:surveillance:type%3DALPR
+
+**Check:** The submitted camera in the DeFlock app or their OpenStreetMap edit
+history.
+
+### 2.4 Spot 3 Kinds of Surveillance
+
+Photograph 3 different kinds of surveillance tech (e.g., dome camera, smart
+doorbell, ALPR). Photograph devices, not people.
+- Spot the Surveillance one-pager - [Materials/EFF/Double Sided/spot_the_surveillance_one_pager_-_english.pdf](Materials/EFF/Double%20Sided/spot_the_surveillance_one_pager_-_english.pdf)
+- Street Level Surveillance - https://sls.eff.org
+
+**Check:** Photos of 3 different device types on their device.
+
+### 2.5 Bring a Friend
+
+Bring someone who hasn't visited the booth yet and have them complete any
+Tier 1 challenge. You both get a point.
+
+**Check:** The friend completes a Tier 1 challenge.
+
+---
+
+## Tier 3: Big Moves (honor system / take home)
+
+### 3.1 Opt Out of a People-Search Site
+
+Search yourself on one people-search site and submit an opt-out. This one is
+sensitive; ask for the screen-away seat, or do it at home.
+- BADBOOL - https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
+
+**Check:** Opt-out confirmation page/email (don't read the details).
+
+### 3.2 Freeze Your Credit
+
+Freeze your credit at one of the three bureaus (Equifax, Experian, TransUnion).
+It's free. Honor system: just tell us you did it.
+- https://www.usa.gov/credit-freeze
+
+**Check:** Honor system.
+
+### 3.3 Turn On Advanced Account Protection
+
+- Apple: Advanced Data Protection for iCloud - https://support.apple.com/en-us/108756
+- Google: Advanced Protection Program - https://landing.google.com/advancedprotection/
+
+**Check:** ADP or Advanced Protection shown as on.
+
+---
+
+## Tier 4: Opt-Out October Merit Badges
+
+EFF's Opt-Out October 2026 challenges. Complete one and earn its merit badge
+pin.
+- https://www.eff.org/pages/welcome-opt-out-october-lets-take-control-our-data-and-our-devices
+
+### 4.1 Opt Out of AI Training
+
+Turn off AI training or AI features in one app, account, or browser (ChatGPT,
+Gemini, Copilot, LinkedIn, Snapchat, X, Gmail "Smart features", Chrome/Edge/
+Firefox AI settings, etc.).
+- https://www.eff.org/pages/i-want-opt-out-ai-tools-or-training-made-big-tech
+
+**Check:** The AI training/feature setting shown off.
+
+### 4.2 Opt Out of Big Tech Social Media
+
+Create or use an account on a decentralized social network (Mastodon, Bluesky,
+Pixelfed, PeerTube, Loops, etc.).
+- https://www.eff.org/pages/i-want-opt-out-social-media-controlled-big-tech
+
+**Check:** Their profile on a decentralized network.
+
+### 4.3 Opt Out of Big Tech Software
+
+Switch your default browser or default search engine to a privacy-focused one.
+- https://www.eff.org/pages/i-want-opt-out-software-made-big-tech
+
+**Check:** Default browser or default search engine setting.
+
+### 4.4 Opt Out of a Major Operating System (take home)
+
+Install Linux on one of your computers, or boot one from a live USB, then show
+us, or take a photo of it running and show us the photo.
+- https://www.eff.org/pages/i-want-opt-out-major-operating-systems
+
+**Check:** Linux running on their computer, in person or in a photo.
+
+---
+
+## Volunteers
+
+Verify by looking. Never touch the device, take photos, or write anything down
+except the participant's Handle and the challenge ID. Each challenge's
+**Check** line says what "done" looks like.
