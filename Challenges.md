@@ -4,7 +4,8 @@ Complete a challenge, show a volunteer, earn points for EFF gear and bragging
 rights.
 
 - **1 point** per completed challenge.
-- **+1 bonus point** for completing at least one challenge from every tier.
+- **+1 bonus point** for every set of 4 challenges, one from each tier. Each
+  challenge counts toward only one set, so you can earn this more than once.
 - **Drawings:** TBD (day/time). Must be present to win.
 - **No purchase or donation necessary.**
 - **We record only your Handle.** No names, emails, or screenshots. A volunteer
@@ -98,7 +99,7 @@ convention center. Photograph it and show us the photo. (We don't keep it.)
 ### 2.2 Verify Signal Safety Numbers With 3 People
 
 Meet 3 people in person, open each chat, tap their name > "View Safety Number",
-scan each other's QR codes, and tap "Mark as verified". Bonus: swap Signal
+scan each other's QR codes, and tap "Mark as verified". Tip: swap Signal
 usernames instead of phone numbers.
 - https://support.signal.org/hc/en-us/articles/360007060632
 
@@ -161,20 +162,48 @@ It's free. Honor system: just tell us you did it.
 
 ---
 
-## Tier 4: Learn Something
+## Tier 4: Opt-Out October Merit Badges
 
-### 4.1 Answer a Question From the TV
+EFF's Opt-Out October 2026 challenges. Complete one and earn its merit badge
+pin.
+- https://www.eff.org/pages/welcome-opt-out-october-lets-take-control-our-data-and-our-devices
 
-Watch the booth TV loop, then answer a volunteer's question about it.
+### 4.1 Opt Out of AI Training
 
-**Check:** Correct answer from the question bank below.
+Turn off AI training or AI features in one app, account, or browser (ChatGPT,
+Gemini, Copilot, LinkedIn, Snapchat, X, Gmail "Smart features", Chrome/Edge/
+Firefox AI settings, etc.).
+- https://www.eff.org/pages/i-want-opt-out-ai-tools-or-training-made-big-tech
 
-#### Question Bank
+**Check:** The AI training/feature setting shown off.
 
-TODO: 3-5 questions in the TV loop.
+### 4.2 Opt Out of Big Tech Social Media
+
+Create or use an account on a decentralized social network (Mastodon, Bluesky,
+Pixelfed, PeerTube, Loops, etc.).
+- https://www.eff.org/pages/i-want-opt-out-social-media-controlled-big-tech
+
+**Check:** Their profile on a decentralized network.
+
+### 4.3 Opt Out of Big Tech Software
+
+Switch your default browser or default search engine to a privacy-focused one.
+- https://www.eff.org/pages/i-want-opt-out-software-made-big-tech
+
+**Check:** Default browser or default search engine setting.
+
+### 4.4 Opt Out of a Major Operating System (take home)
+
+Install Linux on one of your computers, or boot one from a live USB, then show
+us, or take a photo of it running and show us the photo.
+- https://www.eff.org/pages/i-want-opt-out-major-operating-systems
+
+**Check:** Linux running on their computer, in person or in a photo.
+
+---
 
 ## Volunteers
 
 Verify by looking. Never touch the device, take photos, or write anything down
-except a tally mark per challenge ID on the tally sheet. Each challenge's
+except the participant's Handle and the challenge ID. Each challenge's
 **Check** line says what "done" looks like.
