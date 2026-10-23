@@ -3,18 +3,19 @@
 Complete a challenge, show a volunteer, earn points for EFF gear and bragging
 rights.
 
-- **1 point** per completed challenge.
-- **+1 bonus point** for every set of 4 challenges, one from each tier. Each
-  challenge counts toward only one set, so you can earn this more than once.
+- **1 point** per completed challenge. Each challenge earns points only once.
+- **+1 bonus point** for every set of 4 challenges, one from each of Tiers 1-4.
+  Each challenge counts toward only one set, so you can earn this more than
+  once.
 - **Drawings:** TBD (day/time). Must be present to win.
-- **No purchase or donation necessary.**
+- **No purchase or donation necessary.** Every point can be earned for free.
 - **We record only your Handle.** No names, emails, or screenshots. A volunteer
   looks at your screen and awards you a point.
 
 Use your personal device, not a work-managed one.
 
 <!--
-Challenge IDs are <tier>.<n>. IDs are permanent: never renumber or reuse one.
+Challenge IDs are <tier>.<n> (B.<n> for Bonus Points). IDs are permanent: never renumber or reuse one.
 To remove a challenge, delete it and leave the gap. To add one, use the next
 unused number in its tier.
 -->
@@ -199,6 +200,22 @@ us, or take a photo of it running and show us the photo.
 - https://www.eff.org/pages/i-want-opt-out-major-operating-systems
 
 **Check:** Linux running on their computer, in person or in a photo.
+
+---
+
+## Bonus Points
+
+Bonus challenges earn points but don't count toward a set of 4.
+
+### B.1 Support the EFF
+
+Donate to the EFF, **or** take an action from the EFF Action Center (e.g., send
+a letter to a legislator). Either one earns the same 1 point.
+- Donate - https://supporters.eff.org/donate
+- Action Center - https://act.eff.org
+
+**Check:** Donation receipt or Action Center confirmation page. Don't look at or
+ask about the amount.
 
 ---
 
