@@ -39,16 +39,20 @@ Install Privacy Badger or uBlock Origin in your browser.
 
 **Check:** Privacy Badger or uBlock Origin icon in the browser toolbar.
 
-### 1.3 Kill Your Mobile Ad ID
+### 1.3 Opt Out of Ad Tracking
 
-- iOS: Settings > Privacy & Security > Tracking > turn off "Allow Apps to
-  Request to Track"
-- Android: Settings > search "Ads" > "Delete advertising ID" (menu location
-  varies by vendor/version)
-- How-to - https://www.eff.org/deeplinks/2022/05/how-disable-ad-id-tracking-ios-and-android-and-why-you-should-do-it-now
+Do either one:
+- Kill your mobile ad ID:
+  - iOS: Settings > Privacy & Security > Tracking > turn off "Allow Apps to
+    Request to Track"
+  - Android: Settings > search "Ads" > "Delete advertising ID" (menu location
+    varies by vendor/version)
+  - How-to - https://www.eff.org/deeplinks/2022/05/how-disable-ad-id-tracking-ios-and-android-and-why-you-should-do-it-now
+- Turn off ad personalization on one account (Google, Meta, Amazon, etc.).
+  - Google My Ad Center - https://myadcenter.google.com
 
 **Check:** iOS: Tracking toggle off. Android: no advertising ID / "Get new ID"
-shown.
+shown. Or: an account's personalized ads toggle off.
 
 ### 1.4 Revoke Location Access
 
@@ -57,15 +61,7 @@ downgrade it to "While Using" / "Ask Every Time").
 
 **Check:** An app's location permission set to Never / While Using / Ask.
 
-### 1.5 Turn Off Ad Personalization
-
-Turn off ad personalization on one account (Google, Meta, Amazon, etc.), or
-turn off Automatic Content Recognition (ACR) on your smart TV.
-- Google My Ad Center - https://myadcenter.google.com
-
-**Check:** Personalized ads toggle off, or TV ACR setting off.
-
-### 1.6 Hide Your Number on Signal
+### 1.5 Hide Your Number on Signal
 
 Create a Signal username, then set Settings > Privacy > Phone Number > "Who can
 find me by my number" to "Nobody".
@@ -73,7 +69,7 @@ find me by my number" to "Nobody".
 
 **Check:** Username set; "Who can find me by my number" = Nobody.
 
-### 1.7 Add 2FA to an Account
+### 1.6 Add 2FA to an Account
 
 Enable an authenticator app (TOTP) or a hardware security key on one account
 that doesn't have it yet. SMS doesn't count.
