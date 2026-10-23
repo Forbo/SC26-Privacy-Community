@@ -157,6 +157,15 @@ It's free. Honor system: just tell us you did it.
 
 **Check:** ADP or Advanced Protection shown as on.
 
+### 3.4 Stop Your TV From Watching You
+
+Turn off Automatic Content Recognition (ACR) on your smart TV. Every brand
+calls it something different (e.g., "Viewing Information", "Live Plus",
+"Viewing Data"). Take a photo of the setting and show us.
+- How-to by brand - https://www.consumerreports.org/electronics/privacy/how-to-turn-off-smart-tv-snooping-features-a4840102036/
+
+**Check:** Photo of the TV's ACR setting turned off.
+
 ---
 
 ## Tier 4: Opt-Out October Merit Badges
