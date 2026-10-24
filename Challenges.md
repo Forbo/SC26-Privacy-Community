@@ -1,8 +1,10 @@
 # Privacy Challenges
 
-Complete a challenge, show a volunteer, earn points for EFF gear and bragging
-rights.
+Complete a challenge, show a volunteer, earn a merit badge and points for EFF
+gear and bragging rights.
 
+- **1 merit badge pin** per completed challenge, while supplies last. Each
+  challenge has its own badge.
 - **1 point** per completed challenge. Each challenge earns points only once.
 - **+1 bonus point** for every set of 4 challenges, one from each of Tiers 1-4.
   Each challenge counts toward only one set, so you can earn this more than
@@ -16,7 +18,7 @@ Use your personal device, not a work-managed one.
 
 ## Badges
 
-Click a badge to jump to its challenge.
+Collect them all! Click a badge to jump to its challenge.
 
 | Tier | | | | | | |
 |---|---|---|---|---|---|---|
@@ -182,8 +184,8 @@ calls it something different (e.g., "Viewing Information", "Live Plus",
 
 ## Tier 4: Opt-Out October Merit Badges
 
-EFF's Opt-Out October 2026 challenges. Complete one and earn its merit badge
-pin.
+EFF's Opt-Out October 2026 challenges. The merit badges for these are EFF's
+official Opt-Out October badges.
 - https://www.eff.org/pages/welcome-opt-out-october-lets-take-control-our-data-and-our-devices
 
 ### 4.1 Opt Out of AI Training
@@ -240,4 +242,5 @@ ask about the amount.
 
 Verify by looking. Never touch the device, take photos, or write anything down
 except the participant's Handle and the challenge ID. Each challenge's
-**Check** line says what "done" looks like.
+**Check** line says what "done" looks like. When a challenge is done, hand over
+its merit badge pin.
