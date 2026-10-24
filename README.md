@@ -1,7 +1,7 @@
 # SC26-Privacy-Community
 Repo for the SAINTCON Privacy Community's inaugural year.
 
-**[Privacy Challenges](Challenges.md)** - Complete challenges, earn merit badges and raffle points.
+## **[Privacy Challenges](Challenges.md)** - Complete challenges, earn merit badges and raffle points.
 
 ### Checklists / Step-by-Step
   - Comprehensive Checklist - Digital Defense - https://digital-defense.io
