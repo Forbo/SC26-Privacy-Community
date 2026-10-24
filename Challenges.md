@@ -40,12 +40,16 @@ unused number in its tier.
 
 ### 1.1 Test Your Browser Fingerprint
 
+<img src="Materials/Badges/Final/1.1.png" width="80" align="right" alt="UNIQUE SNOWFLAKE badge">
+
 Run EFF's Cover Your Tracks and see how unique your browser looks to trackers.
 - https://coveryourtracks.eff.org
 
 **Check:** Cover Your Tracks results page.
 
 ### 1.2 Block Trackers
+
+<img src="Materials/Badges/Final/1.2.png" width="80" align="right" alt="TRACKER BLOCKER badge">
 
 Install Privacy Badger or uBlock Origin in your browser.
 - Privacy Badger - https://privacybadger.org
@@ -54,6 +58,8 @@ Install Privacy Badger or uBlock Origin in your browser.
 **Check:** Privacy Badger or uBlock Origin icon in the browser toolbar.
 
 ### 1.3 Opt Out of Ad Tracking
+
+<img src="Materials/Badges/Final/1.3.png" width="80" align="right" alt="UNTARGETED badge">
 
 Do either one:
 - Kill your mobile ad ID:
@@ -70,12 +76,16 @@ shown. Or: an account's personalized ads toggle off.
 
 ### 1.4 Revoke Location Access
 
+<img src="Materials/Badges/Final/1.4.png" width="80" align="right" alt="LOCATION INCOGNITO badge">
+
 Find one app that has location access it doesn't need, and revoke it (or
 downgrade it to "While Using" / "Ask Every Time").
 
 **Check:** An app's location permission set to Never / While Using / Ask.
 
 ### 1.5 Hide Your Number on Signal
+
+<img src="Materials/Badges/Final/1.5.png" width="80" align="right" alt="WHAT'S YOUR HANDLE? badge">
 
 Create a Signal username, then set Settings > Privacy > Phone Number > "Who can
 find me by my number" to "Nobody".
@@ -84,6 +94,8 @@ find me by my number" to "Nobody".
 **Check:** Username set; "Who can find me by my number" = Nobody.
 
 ### 1.6 Add 2FA to an Account
+
+<img src="Materials/Badges/Final/1.6.png" width="80" align="right" alt="TWO FACTORS badge">
 
 Enable an authenticator app (TOTP) or a hardware security key on one account
 that doesn't have it yet. SMS doesn't count.
@@ -99,6 +111,8 @@ enabled.
 
 ### 2.1 Find a License Plate Reader
 
+<img src="Materials/Badges/Final/2.1.png" width="80" align="right" alt="WATCHING WATCHERS badge">
+
 Find an Automated License Plate Reader (ALPR), such as a Flock camera, near the
 convention center. Photograph it and show us the photo. (We don't keep it.)
 - DeFlock map - https://deflock.org
@@ -109,6 +123,8 @@ convention center. Photograph it and show us the photo. (We don't keep it.)
 
 ### 2.2 Verify Signal Safety Numbers With 3 People
 
+<img src="Materials/Badges/Final/2.2.png" width="80" align="right" alt="KEYS VERIFIED badge">
+
 Meet 3 people in person, open each chat, tap their name > "View Safety Number",
 scan each other's QR codes, and tap "Mark as verified". Tip: swap Signal
 usernames instead of phone numbers.
@@ -117,6 +133,8 @@ usernames instead of phone numbers.
 **Check:** Checkmark next to the contact's name in 3 chats.
 
 ### 2.3 Map an Unmapped License Plate Reader
+
+<img src="Materials/Badges/Final/2.3.png" width="80" align="right" alt="HERE BE CAMERAS badge">
 
 Find an ALPR that isn't on the DeFlock map yet, and add it using the DeFlock app
 or OpenStreetMap. OpenStreetMap edits are public and tied to your account, so
@@ -130,6 +148,8 @@ history.
 
 ### 2.4 Spot 3 Kinds of Surveillance
 
+<img src="Materials/Badges/Final/2.4.png" width="80" align="right" alt="BIRD WATCHER badge">
+
 Photograph 3 different kinds of surveillance tech (e.g., dome camera, smart
 doorbell, ALPR). Photograph devices, not people.
 - Spot the Surveillance one-pager - [Materials/EFF/Double Sided/spot_the_surveillance_one_pager_-_english.pdf](Materials/EFF/Double%20Sided/spot_the_surveillance_one_pager_-_english.pdf)
@@ -138,6 +158,8 @@ doorbell, ALPR). Photograph devices, not people.
 **Check:** Photos of 3 different device types on their device.
 
 ### 2.5 Bring a Friend
+
+<img src="Materials/Badges/Final/2.5.png" width="80" align="right" alt="BUDDY SYSTEM badge">
 
 Bring someone who hasn't visited the booth yet and have them complete any
 Tier 1 challenge. You both get a point.
@@ -150,6 +172,8 @@ Tier 1 challenge. You both get a point.
 
 ### 3.1 Opt Out of a People-Search Site
 
+<img src="Materials/Badges/Final/3.1.png" width="80" align="right" alt="OFF THE LIST badge">
+
 Search yourself on one people-search site and submit an opt-out. This one is
 sensitive; ask for the screen-away seat, or do it at home.
 - BADBOOL - https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
@@ -157,6 +181,8 @@ sensitive; ask for the screen-away seat, or do it at home.
 **Check:** Opt-out confirmation page/email (don't read the details).
 
 ### 3.2 Freeze Your Credit
+
+<img src="Materials/Badges/Final/3.2.png" width="80" align="right" alt="CREDIT ON ICE badge">
 
 Freeze your credit at one of the three bureaus (Equifax, Experian, TransUnion).
 It's free. Honor system: just tell us you did it.
@@ -166,12 +192,16 @@ It's free. Honor system: just tell us you did it.
 
 ### 3.3 Turn On Advanced Account Protection
 
+<img src="Materials/Badges/Final/3.3.png" width="80" align="right" alt="CLOUD GUARDIAN badge">
+
 - Apple: Advanced Data Protection for iCloud - https://support.apple.com/en-us/108756
 - Google: Advanced Protection Program - https://landing.google.com/advancedprotection/
 
 **Check:** ADP or Advanced Protection shown as on.
 
 ### 3.4 Stop Your TV From Watching You
+
+<img src="Materials/Badges/Final/3.4.png" width="80" align="right" alt="STOP WATCHING ME badge">
 
 Turn off Automatic Content Recognition (ACR) on your smart TV. Every brand
 calls it something different (e.g., "Viewing Information", "Live Plus",
@@ -190,6 +220,8 @@ official Opt-Out October badges.
 
 ### 4.1 Opt Out of AI Training
 
+<img src="Materials/Badges/Final/4.1.png" width="80" align="right" alt="Opt-Out October badge">
+
 Turn off AI training or AI features in one app, account, or browser (ChatGPT,
 Gemini, Copilot, LinkedIn, Snapchat, X, Gmail "Smart features", Chrome/Edge/
 Firefox AI settings, etc.).
@@ -199,6 +231,8 @@ Firefox AI settings, etc.).
 
 ### 4.2 Opt Out of Big Tech Social Media
 
+<img src="Materials/Badges/Final/4.2.png" width="80" align="right" alt="Opt-Out October badge">
+
 Create or use an account on a decentralized social network (Mastodon, Bluesky,
 Pixelfed, PeerTube, Loops, etc.).
 - https://www.eff.org/pages/i-want-opt-out-social-media-controlled-big-tech
@@ -207,12 +241,16 @@ Pixelfed, PeerTube, Loops, etc.).
 
 ### 4.3 Opt Out of Big Tech Software
 
+<img src="Materials/Badges/Final/4.3.png" width="80" align="right" alt="Opt-Out October badge">
+
 Switch your default browser or default search engine to a privacy-focused one.
 - https://www.eff.org/pages/i-want-opt-out-software-made-big-tech
 
 **Check:** Default browser or default search engine setting.
 
 ### 4.4 Opt Out of a Major Operating System (take home)
+
+<img src="Materials/Badges/Final/4.4.png" width="80" align="right" alt="Opt-Out October badge">
 
 Install Linux on one of your computers, or boot one from a live USB, then show
 us, or take a photo of it running and show us the photo.
@@ -227,6 +265,8 @@ us, or take a photo of it running and show us the photo.
 Bonus challenges earn points but don't count toward a set of 4.
 
 ### B.1 Support the EFF
+
+<img src="Materials/Badges/Final/B.1.png" width="80" align="right" alt="PRIVACY HERO badge">
 
 Donate to the EFF, **or** take an action from the EFF Action Center (e.g., send
 a letter to a legislator). Either one earns the same 1 point.
