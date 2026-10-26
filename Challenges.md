@@ -87,9 +87,10 @@ downgrade it to "While Using" / "Ask Every Time").
 
 <img src="Materials/Badges/Final/1.5.png" width="80" align="right" alt="WHAT'S YOUR HANDLE? badge">
 
-Create a Signal username, then set Settings > Privacy > Phone Number > "Who can
-find me by my number" to "Nobody".
-- https://signal.org/blog/phone-number-privacy-usernames/
+Create a Signal username, then go to Settings > Privacy > Phone Number:
+- Set "Who can see my number" to "Nobody".
+- Set "Who can find me by my number" to "Nobody".
+- Info - https://signal.org/blog/phone-number-privacy-usernames/
 
 **Check:** Username set; "Who can find me by my number" = Nobody.
 
