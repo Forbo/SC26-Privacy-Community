@@ -141,7 +141,7 @@ Find an ALPR that isn't on the DeFlock map yet, and add it using the DeFlock app
 or OpenStreetMap. OpenStreetMap edits are public and tied to your account, so
 consider a pseudonymous account.
 - DeFlock - https://deflock.org
-- Reporting instructions - https://github.com/FoggedLens/deflock
+- Reporting instructions - https://github.com/FoggedLens/deflock#report-alprs
 - OpenStreetMap tag - https://wiki.openstreetmap.org/wiki/Tag:surveillance:type%3DALPR
 
 **Check:** The submitted camera in the DeFlock app or their OpenStreetMap edit
