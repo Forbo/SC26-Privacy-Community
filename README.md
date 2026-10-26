@@ -4,10 +4,10 @@ Repo for the SAINTCON Privacy Community's inaugural year.
 ## **[Privacy Challenges](Challenges.md)** - Complete challenges, earn merit badges and raffle points.
 
 ### Checklists / Step-by-Step
-  - Comprehensive Checklist - Digital Defense - https://digital-defense.io
   - Easy/Linear Journey - Zebra Crossing - https://zebracrossing.narwhalacademy.org
     - Donate - https://ko-fi.com/narwhalacademy
   - Specific Use Cases - Consumer Reports Security Planner - https://securityplanner.consumerreports.org
+  - Comprehensive Checklist - Digital Defense - https://digital-defense.io
 
 ### Provider/Software Recommendations
   - Privacy Guides - https://privacyguides.org/en/tools
