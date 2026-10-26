@@ -26,7 +26,6 @@ Repo for the SAINTCON Privacy Community's inaugural year.
   - Paid Services (Convenient, but costs $)
     - Comparison Chart (See also "FIG" below) - https://docs.google.com/spreadsheets/d/115L6LpQg_UX638IyUfdwGhRS7dIU3lKwz6fjAcDtE-0/edit?gid=0#gid=0
     - EasyOptOuts - https://www.easyoptouts.com
-    - JoinDeleteMe/DeleteMe - Unclear if these are the same company?
   - DIY (Hard mode, but free)
     - BADBOOL - Big-Ass Data Broker Opt-Out List - https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
       - FIG - Fill in the Gaps of Paid Removal Services, BADBOOL Supplement - (2nd Tab of Spreadsheet) https://docs.google.com/spreadsheets/d/115L6LpQg_UX638IyUfdwGhRS7dIU3lKwz6fjAcDtE-0/edit?gid=0#gid=0
