@@ -33,7 +33,9 @@ Repo for the SAINTCON Privacy Community's inaugural year.
       - Donate - https://ko-fi.com/kofisupporter11745
     - Extreme Privacy Personal Data Removal Workbook - https://inteltechniques.com/data/workbook.pdf
 
-### Electronic Frontier Foundation (EFF)
+## Organizations
+
+### Electronic Frontier Foundation (EFF) - https://eff.org
   - Donate/Membership - https://supporters.eff.org
   - Merch - https://shopeff.org
   - One-Pagers - https://www.eff.org/onepagers
@@ -42,7 +44,11 @@ Repo for the SAINTCON Privacy Community's inaugural year.
     - Threat Modeling (Your Security Plan) - https://ssd.eff.org/module/your-security-plan
   - Street Level Surveillance (SLS) - https://sls.eff.org
 
-### The Tor Project
+### Restore the 4th - https://restorethe4th.com/
+  - Donate - https://restorethe4th.com/donate-now/
+  - Get Involved - https://restorethe4th.com/volunteer/
+
+### The Tor Project - https://torproject.org/
   - Donate - https://donate.torproject.org/
   - Download - https://download.torproject.org/
   - Tails - The Amnesiac Incognito Live System - https://tails.net/
