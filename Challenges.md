@@ -9,7 +9,8 @@ gear and bragging rights.
 - **+1 bonus point** for every set of 4 challenges, one from each of Tiers 1-4.
   Each challenge counts toward only one set, so you can earn this more than
   once.
-- **Drawings:** TBD (day/time). Must be present to win.
+- **Drawings:** 4:30 each day at the Privacy Community booth. Entries roll over
+  each day, so if you don't win one day come back the next!
 - **No purchase or donation necessary.** Every point can be earned for free.
 - **We record only your Handle.** No names, emails, or screenshots. A volunteer
   looks at your screen and awards you a point.
