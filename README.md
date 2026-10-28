@@ -3,15 +3,22 @@ Repo for the SAINTCON Privacy Community's inaugural year.
 
 ## **[Privacy Challenges](Challenges.md)** - Complete challenges, earn merit badges and raffle points.
 
+## TL;DR - Use Signal, Use Tor, Use Linux
+
 ### Checklists / Step-by-Step
   - Easy/Linear Journey - Zebra Crossing - https://zebracrossing.narwhalacademy.org
     - Donate - https://ko-fi.com/narwhalacademy
   - Specific Use Cases - Consumer Reports Security Planner - https://securityplanner.consumerreports.org
-  - Comprehensive Checklist - Digital Defense - https://digital-defense.io
+  - Comprehensive Checklist - Digital Defense - https://digital-defense.io  - Somewhat dated, debatable, come talk to us. :D
 
 ### Provider/Software Recommendations
   - Privacy Guides - https://privacyguides.org/en/tools
 
+### Private AI
+  - Run Your Own - https://www.privacyguides.org/en/ai-chat/
+  - Confer.to - https://confer.to
+  - Proton Lumo - https://proton.me/lumo
+  - 
 ### 2FA/Passkey Directory
   - 2FA - https://2fa.directory
   - Passkeys - https://passkeys.2fa.directory
