@@ -18,7 +18,7 @@ Repo for the SAINTCON Privacy Community's inaugural year.
   - Run Your Own - https://www.privacyguides.org/en/ai-chat/
   - Confer.to - https://confer.to
   - Proton Lumo - https://proton.me/lumo
-  - 
+
 ### 2FA/Passkey Directory
   - 2FA - https://2fa.directory
   - Passkeys - https://passkeys.2fa.directory
