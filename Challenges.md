@@ -5,14 +5,12 @@ gear and bragging rights.
 
 - **1 merit badge pin** per completed challenge, while supplies last. Each
   challenge has its own badge.
-- **1 point** per completed challenge. Each challenge earns points only once.
-- **+1 bonus point** for every set of 4 challenges, one from each of Tiers 1-4.
-  Each challenge counts toward only one set, so you can earn this more than
-  once.
+- **1 raffle point** for every completed tier of challenges, or completing one
+  from each of Tiers 1-4.
 - **Drawings:** 4:30 each day at the Privacy Community booth. Entries roll over
   each day, so if you don't win one day come back the next!
 - **No purchase or donation necessary.** Every point can be earned for free.
-- **We record only your Handle.** No names, emails, or screenshots. A volunteer
+- **We record only your Handle.** No emails or screenshots. A volunteer
   looks at your screen and awards you a point.
 
 Use your personal device, not a work-managed one.
@@ -138,6 +136,7 @@ usernames instead of phone numbers.
 
 <img src="Materials/Badges/Final/2.3.png" width="80" align="right" alt="HERE BE CAMERAS badge">
 
+(This one wound up being a lot more difficult than originally anticipated, so consider it a "free" challenge.)
 Find an ALPR that isn't on the DeFlock map yet, and add it using the DeFlock app
 or OpenStreetMap. OpenStreetMap edits are public and tied to your account, so
 consider a pseudonymous account.
@@ -166,7 +165,7 @@ doorbell, ALPR). Photograph devices, not people.
 Bring someone who hasn't visited the booth yet and have them complete any
 Tier 1 challenge. You both get a point.
 
-**Check:** The friend completes a Tier 1 challenge.
+**Check:** The friend completes any challenge.
 
 ---
 
